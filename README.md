@@ -72,6 +72,8 @@ Starting today, I commit to **100 days of learning, coding, and growing** in DSA
 * **leetcode** [https://leetcode.com/u/FYCfvXYnxf/](https://leetcode.com/u/FYCfvXYnxf/)
 * **Unstop** [https://unstop.com/u/sarthsin39721](https://unstop.com/u/sarthsin39721)
 
+---
+
 ## 📌 Contact Me
 
 * **Name:** Sarthak Singhaniya
