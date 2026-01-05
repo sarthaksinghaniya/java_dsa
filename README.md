@@ -6,8 +6,6 @@ Ah, got it! You want a **README for starting the 100-day DSA streak**, not after
 
 ![DSA Banner](https://img.shields.io/badge/100Days-DSAChallenge-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Java-red?style=flat-square)
-!**leetcode** [https://leetcode.com/u/FYCfvXYnxf/](https://leetcode.com/u/FYCfvXYnxf/)
-!**Unstop** [https://unstop.com/u/sarthsin39721](https://unstop.com/u/sarthsin39721)
 
 Welcome! This repository marks the beginning of my **100 Days of Data Structures & Algorithms (DSA) Challenge** in **Java**. My goal is to **solve at least one DSA problem every day**, build consistency, and improve my problem-solving skills in preparation for competitive programming and technical interviews.
 
@@ -68,6 +66,11 @@ Welcome! This repository marks the beginning of my **100 Days of Data Structures
 Starting today, I commit to **100 days of learning, coding, and growing** in DSA.
 
 ---
+
+# 📍 Platform
+
+* **leetcode** [https://leetcode.com/u/FYCfvXYnxf/](https://leetcode.com/u/FYCfvXYnxf/)
+* **Unstop** [https://unstop.com/u/sarthsin39721](https://unstop.com/u/sarthsin39721)
 
 ## 📌 Contact Me
 
