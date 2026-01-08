@@ -1,4 +1,4 @@
-class Solution {
+class WaterBottlesSolution {
     public int numWaterBottles(int numbottles, int numex) {
         int ans = numbottles ;
 

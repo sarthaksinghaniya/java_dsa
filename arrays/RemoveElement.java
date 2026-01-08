@@ -1,4 +1,4 @@
-class Solution {
+class RemoveElementSolution {
     public int removeElement(int[] nums, int val) {
          int ptr = 0 ; 
 

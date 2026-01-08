@@ -1,4 +1,4 @@
-class Solution {
+class PowerOfTwoSolution {
     public boolean isPowerOfTwo(int n) {
         if(n<1){
             return false;

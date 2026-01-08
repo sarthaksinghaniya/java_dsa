@@ -1,4 +1,4 @@
-class Solution {
+class MissingNumberSolution {
     public int missingNumber(int[] nums) {
         int range = nums.length ;
 

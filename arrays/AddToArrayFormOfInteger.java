@@ -1,4 +1,8 @@
-class Solution {
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+
+class AddToArrayFormSolution {
     public List<Integer> addToArrayForm(int[] num, int k) {
         List<Integer> ans = new ArrayList<>();
 

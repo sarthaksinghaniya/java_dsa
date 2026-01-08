@@ -1,4 +1,4 @@
-class Solution {
+class MaximumProductSolution {
     public int maxProduct(int[] nums) {
         int smax = -1 ;
         int max = -1 ;
